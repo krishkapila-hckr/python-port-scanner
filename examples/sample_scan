@@ -1,0 +1,11 @@
+Enter host to scan(IP or domain): 192.168.56.1
+--------------------------------------------------
+Scanning Target: 192.168.56.1
+Scanning started at: 2025-11-11 01:35:20.693504
+--------------------------------------------------
+port135 is OPEN
+port139 is OPEN
+port445 is OPEN
+Scanning completed.
+
+Process finished with exit code 0
